@@ -1,4 +1,4 @@
-# 🤖 Kuka Robot Kol DQN Öğrenme
+# 🤖 Robot Kol DQN Öğrenme
 
 Bu proje, **PyBullet** simülasyonu kullanarak bir Kuka robot kolunun **DQN (Deep Q-Network)** ile küçük bir küpe ulaşmayı öğrenmesini sağlar.  
 
